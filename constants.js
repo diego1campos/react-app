@@ -1,0 +1,1 @@
+export const rootUrl = "https://www.zaragoza.es/sede/";
